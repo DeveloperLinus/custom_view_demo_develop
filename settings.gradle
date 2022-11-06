@@ -1,0 +1,3 @@
+include ':threadLib'
+include ':app'
+rootProject.name = "CustomViewDemo"
